@@ -66,6 +66,12 @@
 ![Boostrap](https://img.shields.io/badge/-Bootstrap-000?logo=bootstrap)
 
 
+### Mobile Development:
+&emsp;
+![ReactNative](https://img.shields.io/badge/-React_Native-000?logo=React)
+
+
+
 ### Backend Development:
 &emsp;
 ![Express](https://img.shields.io/badge/-Express-000?logo=Express)
@@ -81,7 +87,6 @@
 
 ### Services & Frameworks: 
 &emsp;
-![Auth0](https://img.shields.io/badge/-Auth0-000?logo=Auth0)
 ![Firebase](https://img.shields.io/badge/-Firebase-000?logo=Firebase)
 
 ### Databases:
@@ -101,11 +106,11 @@
 <p align="center">
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a   target="_blank" href="https://www.linkedin.com/in/nitin-dahiya/">
+        <a   target="_blank" href="https://www.linkedin.com/in/vr384/">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" style="margin-left: 10px;" ></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/nitindahiya199">
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/Tiwariji-07">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-           <a style="margin-left: 10px;" target="_blank" href="mailto:nitindahiya00000@gmail.com">
+           <a style="margin-left: 10px;" target="_blank" href="mailto:viveeraj384@gmail.com">
 		<img src="https://img.icons8.com/doodle/2x/gmail-new.png" style=" width:35px; height:43px;"></a>
       </div>
 
@@ -113,4 +118,4 @@
 
 
 <p>Total visitors till now 👇❤️</p>
-<img src="https://profile-counter.glitch.me/nitindahiya199/count.svg">
+<img src="https://profile-counter.glitch.me/Tiwariji-07/count.svg">
