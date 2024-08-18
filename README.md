@@ -5,7 +5,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Vivek</h1>
+    <summary><h1 style="">Hi 👋, I'm Vivek</h1>
       <h3 align="center">Part-time dev | full-time Runner</h3>
     </summary>
   </ul>
@@ -63,7 +63,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-000?logo=CSS3)
 ![HTML](https://img.shields.io/badge/-HTML-000?logo=HTML5)
 ![Chart.js](https://img.shields.io/badge/-Chart.js-000?logo=Chart.js)
-![Boostrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Boostrap](https://img.shields.io/badge/-Bootstrap-000?logo=bootstrap)
 
 
 ### Backend Development:
