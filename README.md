@@ -39,7 +39,7 @@
 - Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/vr384/) 🏆.
 <br>
 
-
+![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tiwariji-07&show_icons=true&theme=transparent)
 
 
   ## 🛠️ My Skills
