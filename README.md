@@ -96,6 +96,8 @@
 
 <p align = "center">
 	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
+		<!-- HTML -->
+<img src="https://readme-jokes.vercel.app/api?theme=gotham" alt="Jokes Card" />
 </p>
 
 <h3 align="center" >Connect with me 🤝 </h3>
