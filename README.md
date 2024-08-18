@@ -39,7 +39,7 @@
 - Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/vr384/) 🏆.
 <br>
 
-![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tiwariji-07&show_icons=true&theme=transparent)
+![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tiwariji-07&show_icons=true&theme=dark)
 
 
   ## 🛠️ My Skills
@@ -114,7 +114,7 @@
 
 </p>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Tiwariji-07.Tiwariji-07&left_color=green&right_color=red)
+
 <p>Total visitors till now 👇❤️</p>
 <img src="https://profile-counter.glitch.me/Tiwariji-07/count.svg"/>
 
