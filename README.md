@@ -39,7 +39,6 @@
 - Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/vr384/) 🏆.
 <br>
 
-![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tiwariji-07&show_icons=true&theme=dark)
 
 
   ## 🛠️ My Skills
@@ -90,7 +89,6 @@
 &emsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?logo=MongoDB)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?logo=mysql)
-
 
 
 
