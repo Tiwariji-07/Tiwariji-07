@@ -93,7 +93,7 @@
 ### Low-code:
 &emsp;
 <a target="_blank" href="https://www.wavemaker.com/">
-			<img src="https://docs.wavemaker.com/learn/img/WM_blue_logo.png" style="height:20px" > Wavemaker</a>
+			<img src="https://docs.wavemaker.com/learn/img/WM_blue_logo.png" style="height:20px" > Wavemaker Studio</a>
 
 
 
