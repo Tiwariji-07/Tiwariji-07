@@ -114,7 +114,7 @@
 
 </p>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Tiwariji-07&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Tiwariji-07.Tiwariji-07&left_color=green&right_color=red)
 <p>Total visitors till now 👇❤️</p>
 <img src="https://profile-counter.glitch.me/Tiwariji-07/count.svg"/>
 
