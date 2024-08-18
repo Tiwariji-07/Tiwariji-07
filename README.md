@@ -51,8 +51,8 @@
 &emsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-000?logo=openjdk)
+![Python](https://img.shields.io/badge/-Python-000?logo=python)
 
 
 ### Frontend Development:
@@ -69,15 +69,13 @@
 ### Backend Development:
 &emsp;
 ![Express](https://img.shields.io/badge/-Express-000?logo=Express)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring](https://img.shields.io/badge/-Spring-000?logo=spring)
 
 
 ### Misc Tools:
 &emsp;
 ![Git](https://img.shields.io/badge/-Git-000?logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?logo=GitHub)
-![GitLab](https://img.shields.io/badge/-GitLab-000?logo=GitLab)
-![Docker](https://img.shields.io/badge/-Docker-000?logo=Docker)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-000?logo=Visual-Studio-Code)
 ![Postman](https://img.shields.io/badge/-Postman-000?logo=Postman)
 
@@ -89,7 +87,7 @@
 ### Databases:
 &emsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?logo=MongoDB)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-000?logo=mysql)
 
 
 
