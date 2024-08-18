@@ -95,7 +95,7 @@
 
 
 <p align = "center">
-	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
+<!-- 	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming"> -->
 		<!-- HTML -->
 <img src="https://readme-jokes.vercel.app/api?theme=gotham&hideBorder&bgColor=1A1B27" alt="Jokes Card" />
 </p>
