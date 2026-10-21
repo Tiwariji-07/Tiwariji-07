@@ -14,7 +14,8 @@
 
 <picture><img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px"></picture>
 
-- **AI Engineer @ WaveMaker** — working on:
+- **Senior Software Engineer @ Innovapptive** (since September 2026)
+- Previously at **WaveMaker** (2023–2026), where I worked on:
   - Agentic AI systems & multi-agent architectures
   - Multi-source RAG pipelines
   - LangGraph orchestration
@@ -25,7 +26,7 @@
 - Currently exploring multi-agent systems, vector databases, AI orchestration frameworks, and LLM infrastructure.
 - Outside engineering: marathon runner, React Native tinkerer, building AI-first product experiences.
 - Ask me about anything — especially marathon training.
-- Reach me on [LinkedIn](https://www.linkedin.com/in/vr384/).
+- Reach me on [LinkedIn](https://www.linkedin.com/in/vr384/) or [X](https://x.com/vivekraj440551), or see my [portfolio](https://tiwariji-07.github.io/).
 
 <br clear="right"/>
 
@@ -96,7 +97,7 @@
     <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" style="margin-left: 10px;"></a>
   <a style="margin-left: 10px;" target="_blank" href="https://github.com/Tiwariji-07">
     <img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-  <a style="margin-left: 10px;" target="_blank" href="mailto:viveeraj384@gmail.com">
+  <a style="margin-left: 10px;" target="_blank" href="mailto:hirevivekraj@gmail.com">
     <img src="https://img.icons8.com/doodle/2x/gmail-new.png" style="width:35px; height:43px;"></a>
   <a href="https://twitter.com/vivekraj440551" target="blank" style="margin-left: 10px;">
     <img src="https://img.icons8.com/?size=100&id=6BmXkftCQhH8&format=png&color=000000" alt="vivekraj440551" height="40px" width="40px"/></a>
